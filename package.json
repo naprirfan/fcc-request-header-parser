@@ -1,0 +1,27 @@
+{
+  "name": "request-header-service",
+  "version": "1.0.0",
+  "description": "FCC Challenge",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "ua-parser-js": "^0.7.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naprirfan/fcc-request-header-parser.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Muhammad Irfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naprirfan/fcc-request-header-parser/issues"
+  },
+  "homepage": "https://github.com/naprirfan/fcc-request-header-parser#readme"
+}
